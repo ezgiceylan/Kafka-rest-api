@@ -1,4 +1,4 @@
-# Kafka Producer Consumer REST
+# Kafka 
     
     docker-compose up 
     docker pull ezguv/kafka
