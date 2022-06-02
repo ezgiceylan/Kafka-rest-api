@@ -1,4 +1,5 @@
 # kafka-rest-api
+
 docker-compose up 
 docker pull ezguv/kafka
 docker pull ezguv/zookeeper
